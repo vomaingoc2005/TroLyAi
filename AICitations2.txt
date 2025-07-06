@@ -1,0 +1,9 @@
+Work cited
+
+Inspired by ChatGPT and DeepSeek
+
+OpenAI. (2025). ChatGPT [June 21 version]. https://chat.openai.com
+
+DeepSeek. (2025). DeepSeek-R1-0528 [May 28 version]. https://chat.deepseek.com
+
+I used AI to generate multiple response variations for each AI Assistant. The ideas were originally mine, I just used AI to help expand the number of hardcoded responses so that users can receive something unique each time.
